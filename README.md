@@ -1,47 +1,50 @@
-# java_full_course-
-This repository contains materials for learning Java. It covers the following topics:
+# Java Course
 
-**Table of Contents:**
-Introduction to Java/n
-Variables and Operators
-Flow Control, Loops, and Functions
-Analysis of Algorithms
-Arrays
-Strings
-Object-Oriented Programming
-Recursion
-Hashing
-Searching
-Sorting
-Linked List
-Circular Linked List
-Doubly Linked List
-Stack
-Queue
-Deque
-Tree
-Binary Search Tree
-Heap
-Java Collections
-Java Libraries
-Java Lambda Expressions
-Java Streams
-Array List
-Priority Queue
-HashSet and LinkedHashSet
-TreeSet
-HashMap and LinkedHashMap
-TreeMap
-Comparator and Comparable
-Array Class
-Collection Class
-Mathematics in DSA
-Bit Magic
-Matrix
-Graph
-Greedy Algorithms
-Backtracking
-Dynamic Programming
-Trie
-Segment and Binary Indexed Trees
-Disjoint Set**
+This repository contains course materials for learning Java. It covers the following topics:
+
+## Table of Contents
+
+- [Introduction to Java](#introduction-to-java)
+- [Variables and Operators](#variables-and-operators)
+- [Flow Control, Loops, and Functions](#flow-control-loops-and-functions)
+- [Analysis of Algorithms](#analysis-of-algorithms)
+- [Arrays](#arrays)
+- [Strings](#strings)
+- [Object-Oriented Programming](#object-oriented-programming)
+- [Recursion](#recursion)
+- [Hashing](#hashing)
+- [Searching](#searching)
+- [Sorting](#sorting)
+- [Linked List](#linked-list)
+- [Circular Linked List](#circular-linked-list)
+- [Doubly Linked List](#doubly-linked-list)
+- [Stack](#stack)
+- [Queue](#queue)
+- [Deque](#deque)
+- [Tree](#tree)
+- [Binary Search Tree](#binary-search-tree)
+- [Heap](#heap)
+- [Java Collections](#java-collections)
+- [Java Libraries](#java-libraries)
+- [Java Lambda Expressions](#java-lambda-expressions)
+- [Java Streams](#java-streams)
+- [Array List](#array-list)
+- [Priority Queue](#priority-queue)
+- [HashSet and LinkedHashSet](#hashset-and-linkedhashset)
+- [TreeSet](#treeset)
+- [HashMap and LinkedHashMap](#hashmap-and-linkedhashmap)
+- [TreeMap](#treemap)
+- [Comparator and Comparable](#comparator-and-comparable)
+- [Array Class](#array-class)
+- [Collection Class](#collection-class)
+- [Mathematics in DSA](#mathematics-in-dsa)
+- [Bit Magic](#bit-magic)
+- [Matrix](#matrix)
+- [Graph](#graph)
+- [Greedy Algorithms](#greedy-algorithms)
+- [Backtracking](#backtracking)
+- [Dynamic Programming](#dynamic-programming)
+- [Trie](#trie)
+- [Segment and Binary Indexed Trees](#segment-and-binary-indexed-trees)
+- [Disjoint Set](#disjoint-set)
+
