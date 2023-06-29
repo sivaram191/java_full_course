@@ -5,7 +5,7 @@ This repository contains course materials for learning Java. It covers the follo
 ## Table of Contents
 
 - [Introduction to Java](#introduction-to-java)
-- [Variables and Operators](#variables-and-operators)
+- [Variables and Operators](#intro_variables_operators)
 - [Flow Control, Loops, and Functions](#flow-control-loops-and-functions)
 - [Analysis of Algorithms](#analysis-of-algorithms)
 - [Arrays](#arrays)
