@@ -1,9 +1,8 @@
 # java_full_course-
-**Java Course
-This repository contains course materials for learning Java. It covers the following topics:
+This repository contains materials for learning Java. It covers the following topics:
 
-Table of Contents
-Introduction to Java
+**Table of Contents:**
+Introduction to Java/n
 Variables and Operators
 Flow Control, Loops, and Functions
 Analysis of Algorithms
